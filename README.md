@@ -16,7 +16,7 @@ and MUCH more and also a lot more to come in the future :)
 
 # How do I install???
 
-There are many ways you can inject your game with Tatar Mod Menu here are some of the ways
+There are many ways you can inject your game with Tatar Mod Menu here are some of the ways and DO CONTROL + Q TO OPEN IT!
 
 ## Bookmarklet (Reccomended)
 
