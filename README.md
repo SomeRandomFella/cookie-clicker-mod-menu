@@ -30,7 +30,7 @@ Copy this in the console
 
 ```js
 const s = document.createElement('script');
-s.src = 'dont-have-the-url-yet-bozo';
+s.src = 'https://raw.githubusercontent.com/SomeRandomFella/cookie-clicker-mod-menu/refs/heads/main/inject.js';
 document.body.appendChild(s);
 ```
 
